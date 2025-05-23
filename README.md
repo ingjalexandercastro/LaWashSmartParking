@@ -13,7 +13,7 @@ This document describes the solution structure and provides instructions to run 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ingjalexandercastro/LaWashSmartParking.git
 cd LaWashSmartParking
 ```
 
