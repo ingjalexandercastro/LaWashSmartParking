@@ -6,7 +6,7 @@ This document describes the solution structure and provides instructions to run 
 
 - **.NET SDK**: [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) (recommended) or [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0).
 - **IDE/Editor**: Visual Studio 2022 (or newer), Visual Studio Code, or JetBrains Rider.
-- **Database**: Local or remote SQL Server (if using EF Core in the API).
+- **Database**: SQLite.
 
 ## Setup and Execution Steps
 
