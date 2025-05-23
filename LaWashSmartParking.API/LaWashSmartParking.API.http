@@ -1,0 +1,6 @@
+@LaWashSmartParking.API_HostAddress = http://localhost:5209
+
+GET {{LaWashSmartParking.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

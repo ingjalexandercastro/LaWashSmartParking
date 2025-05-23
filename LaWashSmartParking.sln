@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaWashSmartParking.Domain", "LaWashSmartParking.Domain\LaWashSmartParking.Domain.csproj", "{86AF0FC8-2F37-4A51-8212-D27A52434DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaWashSmartParking.Application", "LaWashSmartParking.Application\LaWashSmartParking.Application.csproj", "{4A424C5F-949D-4FEA-92C9-07C452E10719}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaWashSmartParking.Infrastructure", "LaWashSmartParking.Infrastructure\LaWashSmartParking.Infrastructure.csproj", "{0FFDC885-BE7B-407B-9C46-CD3F8420C0DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaWashSmartParking.API", "LaWashSmartParking.API\LaWashSmartParking.API.csproj", "{C858D72B-711E-4BCD-854C-BD5EC39D2D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaWashSmartParking.Simulator", "LaWashSmartParking.Simulator\LaWashSmartParking.Simulator.csproj", "{6865A59D-F3B3-4A52-9A93-F50D8FD808C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaWashSmartParking.Tests", "LaWashSmartParking.Tests\LaWashSmartParking.Tests.csproj", "{7A7F7850-3EAA-4F9B-A2E4-2BBCFB4EA3F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86AF0FC8-2F37-4A51-8212-D27A52434DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AF0FC8-2F37-4A51-8212-D27A52434DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AF0FC8-2F37-4A51-8212-D27A52434DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AF0FC8-2F37-4A51-8212-D27A52434DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A424C5F-949D-4FEA-92C9-07C452E10719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A424C5F-949D-4FEA-92C9-07C452E10719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A424C5F-949D-4FEA-92C9-07C452E10719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A424C5F-949D-4FEA-92C9-07C452E10719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFDC885-BE7B-407B-9C46-CD3F8420C0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFDC885-BE7B-407B-9C46-CD3F8420C0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFDC885-BE7B-407B-9C46-CD3F8420C0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFDC885-BE7B-407B-9C46-CD3F8420C0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C858D72B-711E-4BCD-854C-BD5EC39D2D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C858D72B-711E-4BCD-854C-BD5EC39D2D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C858D72B-711E-4BCD-854C-BD5EC39D2D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C858D72B-711E-4BCD-854C-BD5EC39D2D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6865A59D-F3B3-4A52-9A93-F50D8FD808C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6865A59D-F3B3-4A52-9A93-F50D8FD808C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6865A59D-F3B3-4A52-9A93-F50D8FD808C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6865A59D-F3B3-4A52-9A93-F50D8FD808C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7F7850-3EAA-4F9B-A2E4-2BBCFB4EA3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7F7850-3EAA-4F9B-A2E4-2BBCFB4EA3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7F7850-3EAA-4F9B-A2E4-2BBCFB4EA3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7F7850-3EAA-4F9B-A2E4-2BBCFB4EA3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
